@@ -35,7 +35,9 @@
       "exclude": [
         "apps/boilerplate-e2e/**/*",
         "apps/adminer-e2e/**/*",
-        "apps/adminer-e2e/**/*"
+        "apps/adminer-e2e/**/*",
+        "new-server-e2e/**/*",
+        "apps/new-server-e2e/**/*"
       ]
     },
     {
